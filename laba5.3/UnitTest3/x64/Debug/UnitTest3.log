@@ -1,0 +1,3 @@
+﻿  UnitTest3.cpp
+C:\Users\Користувач\Desktop\лаба3ап\laba5.3\laba5.3\laba5.3.cpp(13,9): error C2086: 'double z': redefinition
+C:\Users\Користувач\Desktop\лаба3ап\laba5.3\laba5.3\laba5.3.cpp(7): message : see declaration of 'z'
